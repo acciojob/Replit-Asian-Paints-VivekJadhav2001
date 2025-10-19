@@ -1,6 +1,6 @@
 //your JS code here. If required.
 const changeBtn = document.getElementById("change_button");
-        const resetBtn = document.getElementById("Reset");
+        const resetBtn = document.getElementById("reset_button");
 
         changeBtn.addEventListener("click", () => changeColor());
         resetBtn.addEventListener("click", () => resetColor());
